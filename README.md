@@ -1,16 +1,41 @@
-[![An image of @ananya1411's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananya1411)](https://holopin.io/@ananya1411)## Hi there 👋
+# 🌟 Hi, I'm Ananya Arya!  
 
-<!--
-**Ananya14-11/Ananya14-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | CSE'27 | DSA Enthusiast | Member @Vertex Club  
 
-Here are some ideas to get you started:
+🚀 Passionate about building clean UI, solving DSA problems, and contributing to open-source.  
+I love exploring full-stack development and working on real-world projects that make an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+**Frontend:** HTML • CSS • JavaScript • React  
+**Backend:** Node.js • Express  
+**Database:** MongoDB  
+**Tools:** Git • GitHub • VS Code  
+**Other:** C++ • DSA • REST APIs  
+
+---
+
+## 📌 Featured Projects  
+🔹 **My-portfolio** → A responsive personal portfolio website  
+🔹 **Railway Management Frontend** → Simple project using API calls  
+🔹 **More projects coming soon…**
+
+---
+
+## 📈 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=Ananya14-11&show_icons=true&theme=tokyonight)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya14-11&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning  
+- Advanced React  
+- Backend API integration  
+- LeetCode patterns  
+
+---
+
+## 📫 Connect With Me  
+📧 **Email:** your-email@gmail.com  
+💼 **LinkedIn:** [Your LinkedIn Link]  
