@@ -1,6 +1,6 @@
 # 🌟 Hi, I'm Ananya Arya!  
 
-### MERN Stack Developer | CSE'27 | DSA Enthusiast | Member @Vertex Club  
+### MERN Stack Developer | DSA Enthusiast | Member @Vertex Club  
 
 🚀 Passionate about building clean UI, solving DSA problems, and contributing to open-source.  
 I love exploring full-stack development and working on real-world projects that make an impact.
@@ -17,15 +17,17 @@ I love exploring full-stack development and working on real-world projects that 
 ---
 
 ## 📌 Featured Projects  
-🔹 **My-portfolio** → A responsive personal portfolio website  
-🔹 **Railway Management Frontend** → Simple project using API calls  
+🔹 **My-portfolio** → A responsive personal portfolio website   
 🔹 **More projects coming soon…**
 
 ---
 
 ## 📈 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=Ananya14-11&show_icons=true&theme=tokyonight)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya14-11&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ananya14-11&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya14-11&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ---
 
