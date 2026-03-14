@@ -1,15 +1,8 @@
 # Hi there! I'm Ananya Arya 👋
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Electronics+Engineer;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Electronics+Engineer;Open+Source+Contributor; alt="Typing SVG" />
-  </a>
-</p>
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Electronics+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 ### 🏅 My Digital Badges
 <a href="https://holopin.io/@ananya1411">
@@ -23,6 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ananya-arya-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ananya Arya LinkedIn" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ananyyaa_14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ananya Arya LeetCode" height="30" width="40" /></a>
+</p>
 
 ---
 <p align="center">
